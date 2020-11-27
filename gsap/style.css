@@ -239,6 +239,7 @@ object-fit: cover;
 height: 300px;
 flex-grow: 2;
 opacity: 0;
+overflow-x:hidden;
 }
 
 .gallery{
